@@ -1,0 +1,14 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+ul{
+    display: flex;
+}
+li{
+    margin-left: 25px;
+}
+body
+{
+    color: #c5a7a7;
+}
